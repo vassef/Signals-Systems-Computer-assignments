@@ -1,2 +1,2 @@
 # Signals-Systems-Computer-assignments
-This is the Computer assignmens's material for Signals &amp; Systems Winter 1400 instructed by Dr. Rabiei
+Here is the Computer assignments material I designed for the Signals & Systems Winter 1400, instructed by Dr. Rabiei.
